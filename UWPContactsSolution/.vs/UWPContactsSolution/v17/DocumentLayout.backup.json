@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB157F-2910-4847-A6F7-CCA25533B28F}|UWPContacts\\UWPContacts.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\uwpcontacts\\uwpcontactssolution\\uwpcontacts\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46BB157F-2910-4847-A6F7-CCA25533B28F}|UWPContacts\\UWPContacts.csproj|solutionrelative:uwpcontacts\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB157F-2910-4847-A6F7-CCA25533B28F}|UWPContacts\\UWPContacts.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\uwpcontacts\\uwpcontactssolution\\uwpcontacts\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BB157F-2910-4847-A6F7-CCA25533B28F}|UWPContacts\\UWPContacts.csproj|solutionrelative:uwpcontacts\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BB157F-2910-4847-A6F7-CCA25533B28F}|UWPContacts\\UWPContacts.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\uwpcontacts\\uwpcontactssolution\\uwpcontacts\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{46BB157F-2910-4847-A6F7-CCA25533B28F}|UWPContacts\\UWPContacts.csproj|solutionrelative:uwpcontacts\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\UWPContacts\\Contact.cs",
+              "RelativeDocumentMoniker": "UWPContacts\\Contact.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\UWPContacts\\Contact.cs",
+              "RelativeToolTip": "UWPContacts\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:01:04.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\UWPContacts\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "UWPContacts\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\UWPContacts\\Views\\MainPage.xaml",
+              "RelativeToolTip": "UWPContacts\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T13:46:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\UWPContacts\\README.md",
+              "RelativeDocumentMoniker": "UWPContacts\\README.md",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\UWPContacts\\UWPContactsSolution\\UWPContacts\\README.md",
+              "RelativeToolTip": "UWPContacts\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-03T13:45:18.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
