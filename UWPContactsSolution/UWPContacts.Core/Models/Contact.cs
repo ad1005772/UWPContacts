@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UWPContacts.Models
+namespace UWPContacts
 {
     public class Contact
     {

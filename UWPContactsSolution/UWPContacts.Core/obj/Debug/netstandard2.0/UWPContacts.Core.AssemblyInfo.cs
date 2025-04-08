@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UWPContacts.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a82ecbe0b8da8c86b745c205129600eca4bde0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2842cf7ce38c49fb31f173b68691a3ac3c941bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("UWPContacts.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UWPContacts.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
